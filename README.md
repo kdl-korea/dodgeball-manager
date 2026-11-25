@@ -1,2 +1,2 @@
-# dodgeball-manager
-Dodgeball Manager Official Website
+# 피구매니저 지원 사이트 초안
+공개 전 모든 대괄호 자리표시자를 실제 정보로 교체하고 개인정보 수집·위탁·국외 이전·보존 기간·미성년자 정책·삭제 요청 운영 절차를 검증하세요. 문서의 정책 문구도 실제 구현과 일치해야 합니다. GitHub 공개 저장소 루트에 HTML/CSS 및 .nojekyll을 올리고 Settings > Pages > Deploy from a branch > main / (root)를 선택하세요. 비밀키나 환경 파일은 올리지 마세요.
